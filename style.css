@@ -1,0 +1,77 @@
+header{
+    background-color: rgb(20, 20, 19);
+    padding: 1rem;
+}
+nav{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    color: rgb(67, 51, 82);
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 10px;
+}
+nav a:hover{
+    color: black;
+    background-color: white;
+    padding: 1rem;
+}
+
+.principal h1{
+    text-align: center;
+    color:rgb(51, 5, 95);
+    background-color: rgb(207, 207, 207);
+}
+.principal p{
+    text-align: center;
+    color: rgb(8, 17, 139);
+}
+.principal img{
+    width: 80%;
+    margin-left: 100px;
+}
+.secundaria{
+    display: flex;
+    margin-bottom: 3rem;
+}
+.secundaria h2{
+    text-align: center;
+}
+.secundaria p{
+    text-align: center;
+    color: rgb(8, 17, 139);
+}
+.secundaria div{
+    margin: 1rem;
+}
+.secundaria img{
+    width: 60%;
+    height: 55%;
+    margin-left:50px;
+    border-radius: 100%;
+}
+.terciaria{
+    display: flex;
+    margin-bottom: 1rem;
+    background-color: rgb(207, 207, 207);
+}
+.terciaria div{
+    margin: 2rem;
+}
+#carouselExample{
+    width: 50%;
+    margin-left: 300px;
+    margin-bottom: 2rem;
+}
+footer{
+    background-color: rgb(36, 30, 30);
+    color: white;
+    padding: 1rem;
+}
+footer p{
+    text-align: center;
+    background-attachment: beige;
+}
